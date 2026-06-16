@@ -1,4 +1,4 @@
-# Hi, I’m Omera Anjum 👋
+# Hi, I’m Omera Anjum 
 
 ### Marketing Professional | Growth Strategist | Performance Marketing | AI & Analytics
 
@@ -12,14 +12,14 @@ I believe good marketing is not only about reaching more people. It is about und
 
 ## About Me
 
-- 🎓 MBA graduate from Edgewood College
-- 📊 Background in growth marketing, branding, media, and analytics
-- 🤖 Learning Artificial Intelligence and Machine Learning through IIT Roorkee
-- 📈 Interested in performance marketing and revenue-focused campaigns
-- 🧠 Exploring AI agents, automation, subagents, and AI business applications
-- 🌍 Experience working across Indian and US business environments
-- ✍️ Building educational content through DecodeMarketingAI
-- 💼 Open to opportunities in digital marketing, growth marketing, media buying, and marketing analytics
+- MBA graduate from Edgewood College
+- Background in growth marketing, branding, media, and analytics
+- Learning Artificial Intelligence and Machine Learning through IIT Roorkee
+- Interested in performance marketing and revenue-focused campaigns
+- Exploring AI agents, automation, subagents, and AI business applications
+- Experience working across Indian and US business environments
+- Building educational content through DecodeMarketingAI
+- Open to opportunities in digital marketing, growth marketing, media buying, and marketing analytics
 
 ---
 
